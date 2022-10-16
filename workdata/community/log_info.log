@@ -1,0 +1,24 @@
+2022-10-16 19:08:23,557 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:55] Starting loggertests on DESKTOP-8C4MSD9 with PID 13376 (started by 雪——以梦为马 in D:\SpringBoot\community)
+2022-10-16 19:08:23,560 INFO [main] c.n.c.loggertests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2022-10-16 19:08:24,990 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:08:25,319 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:61] Started loggertests in 2.228 seconds (JVM running for 2.989)
+2022-10-16 19:08:25,617 INFO [main] c.n.c.loggertests [loggertests.java:21] logger info
+2022-10-16 19:08:25,630 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:18:14,773 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:55] Starting loggertests on DESKTOP-8C4MSD9 with PID 17204 (started by 雪——以梦为马 in D:\SpringBoot\community)
+2022-10-16 19:18:14,775 INFO [main] c.n.c.loggertests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2022-10-16 19:18:16,320 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:18:16,659 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:61] Started loggertests in 2.395 seconds (JVM running for 3.165)
+2022-10-16 19:18:16,965 INFO [main] c.n.c.loggertests [loggertests.java:21] logger info
+2022-10-16 19:18:16,976 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:19:39,942 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:55] Starting loggertests on DESKTOP-8C4MSD9 with PID 11224 (started by 雪——以梦为马 in D:\SpringBoot\community)
+2022-10-16 19:19:39,944 INFO [main] c.n.c.loggertests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2022-10-16 19:19:41,402 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:19:41,740 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:61] Started loggertests in 2.232 seconds (JVM running for 3.001)
+2022-10-16 19:19:42,050 INFO [main] c.n.c.loggertests [loggertests.java:21] logger info
+2022-10-16 19:19:42,060 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:22:00,493 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:55] Starting loggertests on DESKTOP-8C4MSD9 with PID 17048 (started by 雪——以梦为马 in D:\SpringBoot\community)
+2022-10-16 19:22:00,496 INFO [main] c.n.c.loggertests [SpringApplication.java:651] No active profile set, falling back to default profiles: default
+2022-10-16 19:22:02,039 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] Initializing ExecutorService 'applicationTaskExecutor'
+2022-10-16 19:22:02,390 INFO [main] c.n.c.loggertests [StartupInfoLogger.java:61] Started loggertests in 2.368 seconds (JVM running for 3.557)
+2022-10-16 19:22:02,693 INFO [main] c.n.c.loggertests [loggertests.java:21] logger info
+2022-10-16 19:22:02,705 INFO [SpringContextShutdownHook] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] Shutting down ExecutorService 'applicationTaskExecutor'
